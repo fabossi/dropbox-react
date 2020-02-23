@@ -22,7 +22,7 @@
 
 Faça um clone desse repositório e acesse a pasta frontend:
 
-    git clone https://github.com/DouglasVarollo/OmniStack6.git
+    git clone https://github.com/fabossi/dropbox-react.git
     cd OmniStack6/frontend
 
 Agora nós precisamos instalar as dependências, podemos usar o yarn ou npm:
